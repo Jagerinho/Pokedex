@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b576655.css",
-    "main.js": "/static/js/main.a6c8abea.js",
-    "index.html": "/index.html",
-    "main.3b576655.css.map": "/static/css/main.3b576655.css.map",
-    "main.a6c8abea.js.map": "/static/js/main.a6c8abea.js.map"
+    "main.css": "/Jagerinho/Pokedex/static/css/main.3b576655.css",
+    "main.js": "/Jagerinho/Pokedex/static/js/main.a6c8abea.js",
+    "index.html": "/Jagerinho/Pokedex/index.html",
+    "main.3b576655.css.map": "/Jagerinho/Pokedex/static/css/main.3b576655.css.map",
+    "main.a6c8abea.js.map": "/Jagerinho/Pokedex/static/js/main.a6c8abea.js.map"
   },
   "entrypoints": [
     "static/css/main.3b576655.css",
